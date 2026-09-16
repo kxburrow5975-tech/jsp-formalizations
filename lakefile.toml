@@ -1,0 +1,6 @@
+name = "jsp-formalizations"
+version = "0.1.0"
+defaultTargets = ["JspFormalizations"]
+
+[[lean_lib]]
+name = "JspFormalizations"
